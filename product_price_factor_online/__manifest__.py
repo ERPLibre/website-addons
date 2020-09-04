@@ -12,6 +12,6 @@
     "version": "12.0.1.0.0",
     "depends": ["website_sale", "product_price_factor"],
     "data": ["views/templates.xml"],
-    "auto_install": True,
+    "auto_install": False,
     "installable": False,
 }

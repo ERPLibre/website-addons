@@ -11,6 +11,6 @@
     # 'currency': 'EUR',
     "depends": ["website", "web_debranding"],
     "data": ["views.xml"],
-    "auto_install": True,
+    "auto_install": False,
     "installable": False,
 }

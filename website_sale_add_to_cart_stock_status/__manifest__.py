@@ -9,5 +9,5 @@
     "depends": ["website_sale_add_to_cart", "website_sale_stock_status"],
     "data": ["views.xml"],
     "installable": False,
-    "auto_install": True,
+    "auto_install": False,
 }
